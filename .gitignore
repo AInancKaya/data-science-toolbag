@@ -1,0 +1,22 @@
+# macOS Gizli Dosyaları
+.DS_Store
+
+# Python Önbellek Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortam (Virtual Environment)
+venv/
+env/
+.venv/
+
+# Veri Setleri ve Kaydedilmiş Modeller (GitHub'a atılmamalı)
+*.csv
+*.xlsx
+*.parquet
+*.json
+*.pkl
+*.pt
+*.pth
+*.h5
